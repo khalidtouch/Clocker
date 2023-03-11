@@ -1,4 +1,4 @@
-package com.khalidtouch.clocker.ui.theme
+package com.khalidtouch.clocker.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
